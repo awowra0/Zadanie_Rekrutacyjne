@@ -1,0 +1,17 @@
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.exe
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.deps.json
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.dll
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\ConsoleAppTest.pdb
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\bin\Debug\net8.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleA.61122421.Up2Date
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.dll
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\refint\ConsoleAppTest.dll
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.pdb
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ConsoleAppTest.genruntimeconfig.cache
+C:\Users\Adam\Desktop\Prog\Test\ConsoleAppTest\obj\Debug\net8.0\ref\ConsoleAppTest.dll
